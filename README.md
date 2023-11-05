@@ -23,3 +23,20 @@ The tasks are stored in an array with a description and completion status.
 
 ```javascript```
 { description: "Complete project proposal", completed: false }
+
+## Contributing
+
+Pull requests and issues are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- This project is a simple command-line application for managing your tasks.
+- It can serve as a starting point for more complex task management projects.
+
+## Author
+
+Prabhanjan Sahu
