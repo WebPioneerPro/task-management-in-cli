@@ -4,7 +4,7 @@ MyTasks is a simple command-line task manager that allows you to add, list, comp
 
 # Screenshot
 
-![Task Management App Screenshot](https://github.com/WebPioneerPro/task-management/raw/main/images/screenshot.png)
+![Task Management App Screenshot](images/screenshot.png)
 
 ## Getting Started
 
